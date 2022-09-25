@@ -1,0 +1,12 @@
+{
+  "name": "@alternatecms/elasticsearch",
+  "version": "1.0.0",
+  "description": "Use this module to connect your instance of AlternateCMS with your Elasticsearch setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AlternateCMS",
+  "license": "ISC"
+}

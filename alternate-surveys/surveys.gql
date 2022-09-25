@@ -1,0 +1,16 @@
+query MyQuery {
+  findManySurveys {
+    answer
+    assigned_to
+    created_at
+    description
+    dissatisfied_text
+    id
+    name
+    neither_text
+    question
+    satisfied_text
+    status
+    submit_text
+  }
+}

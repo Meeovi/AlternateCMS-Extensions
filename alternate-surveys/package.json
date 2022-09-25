@@ -1,0 +1,16 @@
+{
+  "name": "@alternatecms/alternate-surveys",
+  "version": "1.0.0",
+  "description": "Create surveys in AlternateCMS with built in graphql support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AlternateCMS",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Meeovi/AlternateCMS-Extensions/alternate-surveys"
+  }
+}
